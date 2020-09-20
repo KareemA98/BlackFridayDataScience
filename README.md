@@ -1,5 +1,5 @@
 # BlackFridayDataScience
-This a side project which is trying to score highly on a data science challenge proposed by analytics vidhya.
+This a side project which is trying to score highly on a data science challenge proposed by Analytics Vidhya.
 The challenge is a regression task for predicting the purchase price for products based on the product and the user purchasing.
 
 Challenge Link: https://datahack.analyticsvidhya.com/contest/black-friday/#About
